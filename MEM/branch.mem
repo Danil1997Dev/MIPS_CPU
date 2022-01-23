@@ -1,0 +1,8 @@
+// memory data file (do not edit the following line - required for mem load use)
+// instance=/TOP/dut/note_frecuncy
+// format=mti addressradix=d dataradix=b version=1.0 wordsperline=32
+0: 00100000000100000000000000001000
+4: 00100000000100010000000000001000
+8: 00010010000100010000000000000001
+12: 00000010000100010100000000100000  
+16: 00000010000100010100000000100010 
